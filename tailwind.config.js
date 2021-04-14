@@ -36,7 +36,7 @@ module.exports = {
     fontFamily: {
       sans: ['Graphik', 'sans-serif'],
       serif: ['Merriweather', 'serif'],
-      ara: ['Antic Slab', 'serif                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      ']
+      ara: ['Antic Slab', 'serif'],
     },
     extend: {
       spacing: {

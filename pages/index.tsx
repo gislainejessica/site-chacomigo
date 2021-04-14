@@ -19,7 +19,8 @@ export default function Home() {
     <div>
       <Head>
         <title>Site ChaComigo</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/images/chalogo.png" />
+        <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap" rel="stylesheet"></link>
       </Head>
 
       <Header />
@@ -29,10 +30,10 @@ export default function Home() {
         <About />
         <News />
         <People />
-        {/* <WordsRun /> */}
-        {/* <Store /> */}
+        <WordsRun />
         <DownloadApp />
-        {/* <Faq /> */}
+        <Faq />
+        <Store />
         <Contact />
         <Footer />
       </main>
