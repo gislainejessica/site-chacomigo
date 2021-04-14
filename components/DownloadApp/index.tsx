@@ -44,7 +44,7 @@ export default function DownloadApp() {
           </div>
 
           <div className="flex py-16 flex-row justify-center col-span-3">
-            <Image src="/images/telefone.png" width="200" height="200" className="" />
+            <Image src="/images/chat.png" width="200" height="200" className="" />
           </div>
 
           <div className="flex flex-col justify-center">
