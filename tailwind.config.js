@@ -30,8 +30,8 @@ module.exports = {
       red: colors.rose,
       pink: colors.fuchsia,
       black: colors.black,
-      lime: colors.orange,
-      green: colors.blueGray
+      lime: colors.lime,
+      green: colors.purple
     },
     fontFamily: {
       sans: ['Graphik', 'sans-serif'],

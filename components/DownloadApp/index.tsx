@@ -2,7 +2,7 @@ import Image from 'next/image'
 
 export default function DownloadApp() {
   return (
-    <div className="flex flex-row justify-around w-full  bg-green-200	
+    <div className="flex flex-row justify-around w-full  bg-green-100	
       px-8 py-16 md:px-28 md:py-28">
 
       <div className="hidden md:flex w-full h-auto">
@@ -16,7 +16,7 @@ export default function DownloadApp() {
               <Image src="/images/coffee-cup.png" width="50" height="50" className="" />
             </div>
 
-            <h1 className="text-2xl text-center font-bold text-gray-800 text-opacity-100 py-2">
+            <h1 className="text-2xl text-center font-bold text-pink-800 text-opacity-100 py-2">
               ChaComigo
             </h1 >
             <h3 className="flex justify-center text-base text-center font-normal text-gray-600 ">
@@ -35,7 +35,7 @@ export default function DownloadApp() {
               <Image src="/images/touch.png" width="50" height="50" className="" />
             </div>
 
-            <h1 className="text-2xl text-center font-bold text-gray-800  py-2">
+            <h1 className="text-2xl text-center font-bold text-pink-800  py-2">
               Fácil de usar
             </h1 >
             <h3 className="flex justify-center text-base text-center font-normal text-gray-600 ">
@@ -52,7 +52,7 @@ export default function DownloadApp() {
               <Image src="/images/laughing.png" width="50" height="50" className="" />
             </div>
 
-            <h1 className="text-2xl text-center font-bold text-gray-800  py-2">
+            <h1 className="text-2xl text-center font-bold text-pink-800  py-2">
               Divertido e Interativo
             </h1 >
             <h3 className="flex justify-center text-base text-center font-normal text-gray-600 ">
@@ -69,7 +69,7 @@ export default function DownloadApp() {
               <Image src="/images/community.png" width="50" height="50" className="" />
             </div>
 
-            <h1 className="text-2xl text-center font-bold text-gray-800  py-2">
+            <h1 className="text-2xl text-center font-bold text-pink-800  py-2">
               Comunidade
             </h1 >
             <h3 className="flex justify-center text-base text-center font-normal text-gray-600 ">
@@ -85,7 +85,7 @@ export default function DownloadApp() {
               <Image src="/images/news.png" width="50" height="50" className="" />
             </div>
 
-            <h1 className="text-2xl text-center font-bold text-gray-800  py-2">
+            <h1 className="text-2xl text-center font-bold text-pink-800  py-2">
               Novidade
             </h1 >
             <h3 className="flex justify-center text-base text-center font-normal text-gray-600 ">
@@ -112,7 +112,7 @@ export default function DownloadApp() {
           <div className="flex flex-row ">
             <Image src="/images/coffee-cup.png" width="40" height="40" className="" />
           </div>
-          <h1 className="text-xl text-left font-bold text-gray-800 py-2">
+          <h1 className="text-xl text-left font-bold text-pink-800 py-2">
             ChaComigo
           </h1 >
           <h3 className="flex  text-md text-left font-normal text-gray-600 ">
@@ -129,7 +129,7 @@ export default function DownloadApp() {
             <Image src="/images/touch.png" width="40" height="40" className="" />
           </div>
 
-          <h1 className="text-xl text-left font-bold text-gray-800  py-2">
+          <h1 className="text-xl text-left font-bold text-pink-800  py-2">
             Fácil de usar
           </h1 >
           <h3 className="flex  text-md text-left font-normal text-gray-600  pb-4">
@@ -142,7 +142,7 @@ export default function DownloadApp() {
             <Image src="/images/laughing.png" width="40" height="40" className="" />
           </div>
 
-          <h1 className="text-xl text-left font-bold text-gray-800  py-2">
+          <h1 className="text-xl text-left font-bold text-pink-800  py-2">
             Divertido e Interativo
           </h1 >
           <h3 className="flex text-md text-left font-normal text-gray-600  pb-4">
@@ -156,7 +156,7 @@ export default function DownloadApp() {
             <Image src="/images/community.png" width="40" height="40" className="" />
           </div>
 
-          <h1 className="text-xl text-left font-bold text-gray-800  py-2">
+          <h1 className="text-xl text-left font-bold text-pink-800  py-2">
             Comunidade
           </h1 >
           <h3 className="flex text-md text-left font-normal text-gray-600  pb-4">
@@ -170,7 +170,7 @@ export default function DownloadApp() {
             <Image src="/images/news.png" width="40" height="40" className="" />
           </div>
 
-          <h1 className="text-xl text-left font-bold text-gray-800  py-2">
+          <h1 className="text-xl text-left font-bold text-pink-800  py-2">
             Novidades
           </h1 >
           <h3 className="flex text-md text-left font-normal text-gray-600  pb-4">

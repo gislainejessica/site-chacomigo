@@ -2,13 +2,13 @@ import Image from 'next/image'
 
 export default function People() {
   return (
-    <div className=" flex flex-col justify-center items-center w-full bg-white py-20 md:px-28 md:py-20 ">
+    <div className=" flex flex-col justify-center items-center w-full bg-green-100 py-20 md:px-28 md:py-20 ">
       <div className=" flex flex-row justify-around items-center w-full">
         <h1 className="text-4xl  font-bold text-gray-600 text-center pb-10 w-full">Nosso Time </h1>
       </div>
 
       <div className=" flex flex-col-reverse md:flex-row justify-evenly w-full h-auto " >
-        <div className="rounded-md shadow-xl flex flex-col justify-around bg-gray-100 m-8 p-10">
+        <div className="rounded-md shadow-xl flex flex-col justify-around bg-white m-8 p-10">
           <div className="flex flex-row justify-center ">
             <Image src="/images/avatarana.svg" width="150" height="150" />
           </div>
@@ -23,7 +23,7 @@ export default function People() {
           </div>
         </div>
 
-        <div className="rounded-md shadow-xl flex flex-col justify-around bg-gray-100 m-8 p-10">
+        <div className="rounded-md shadow-xl flex flex-col justify-around bg-white m-8 p-10">
           <div className="flex flex-row justify-center ">
             <Image src="/images/avatargis.svg" width="150" height="150" />
           </div>
@@ -39,7 +39,7 @@ export default function People() {
 
         </div>
 
-        <div className="rounded-md shadow-xl flex flex-col justify-around bg-gray-100 m-8 p-10">
+        <div className="rounded-md shadow-xl flex flex-col justify-around bg-white m-8 p-10">
           <div className="flex flex-row justify-center ">
             <Image src="/images/avatarcalm.svg" width="150" height="150" />
           </div>

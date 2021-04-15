@@ -18,14 +18,14 @@
   overflow: hidden;
 }
 .animated-title > div div {
-  font-size: 5vmin;
+  font-size: 4vmin;
   padding: 2vmin 0;
 }
 .animated-title > div div span {
   display: block;
 }
 .animated-title > div.text-top {
-  border-bottom: 1vmin solid #000;
+  border-bottom: 1vmin solid rgb(58, 58, 58);
   top: 0;
 }
 .animated-title > div.text-top div {
@@ -36,7 +36,7 @@
   transform: translate(0, 100%);
 }
 .animated-title > div.text-top div span:first-child {
-  color: #767676;
+  color: #7c7c7c;
 }
 .animated-title > div.text-bottom {
   bottom: 0;

@@ -1,10 +1,10 @@
 
 export default function Contact() {
   return (
-    <div className=" flex flex-col justify-center items-center w-full h-auto bg-white	
-      px-8 py-16 md:px-28 md:py-24">
+    <div className=" flex flex-col justify-center items-center w-full h-auto bg-gray-100 md:bg-white	
+      px-4 py-8 md:px-28 md:py-24">
 
-      <div className="flex flex-col bg-gray-100 p-16 shadow-none rounded-sm border-green-200 border-1">
+      <div className="flex flex-col bg-gray-100 p-8 md:px-16 shadow-none rounded-sm border-1">
         <h1 className="text-4xl text-center font-bold text-gray-700 pb-10">
           Contato
         </h1>

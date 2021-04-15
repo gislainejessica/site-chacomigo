@@ -20,7 +20,6 @@ export default function Home() {
       <Head>
         <title>Site ChaComigo</title>
         <link rel="icon" href="/images/chalogo.png" />
-        <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap" rel="stylesheet"></link>
       </Head>
 
       <Header />
