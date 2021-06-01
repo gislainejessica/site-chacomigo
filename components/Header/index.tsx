@@ -3,7 +3,7 @@ import Image from 'next/image'
 export default function Header() {
   return (
     <div className="sticky flex flex-row justify-between
-      w-full h-14 bg-green-600 px-16 py-4 z-50 md:px:28 ">
+      w-full h-14 bg-green-500 px-16 py-4 z-50 md:px:28 ">
 
       <h1 className="text-2xl font-bold text-gray-200">
         ChaComigo
