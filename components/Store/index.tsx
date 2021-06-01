@@ -43,7 +43,7 @@ export default function Store() {
   };
 
   return (
-    <div className="flex flex-col md:flex-row justify-between items-center w-full 
+    <div id="store-contact" className="flex flex-col md:flex-row justify-between items-center w-full 
     md:h-screen bg-green-200 py-16 md:py-28 ">
 
       <div className="flex flex-col md:w-1/2 bg-green-200 px-8 md:px-28 ">
@@ -138,7 +138,7 @@ export default function Store() {
           </div>
         </div>
 
-        <button className="bg-green-500 md:bg-green-600 px-4 py-2 rounded-4xl mt-16 justify-end">
+        <button className="bg-green-500 md:bg-green-600 px-4 py-2 rounded-lg mt-16 justify-end">
           <p className="w-40 text-white font-bold"> Ir para loja </p>
         </button>
       </div>

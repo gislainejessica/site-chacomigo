@@ -2,7 +2,7 @@ import Image from 'next/image'
 
 export default function About() {
   return (
-    <div className="bg-green-100 ">
+    <div id="about-content" className="bg-green-100">
       <div className="flex flex-col justify-around w-full  bg-green-200 
         pt-16 pb-16 md:px-28 md:py-16 md:bg-white">
 

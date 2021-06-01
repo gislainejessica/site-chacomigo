@@ -3,9 +3,7 @@ import { motion } from "framer-motion"
 
 export default function News() {
   return (
-    <div className="flex flex-col bg-green-400 w-full px-8 py-16 md:px-16 md:py-16">
-
-      {/* <div className="flex bg-green-100 py-0 mb-0.5 md:py-0.5 mx-28 md:mb-28" /> */}
+    <div id="news-content" className="flex flex-col bg-green-400 w-full px-8 py-16 md:px-16 md:py-16">
 
       <h1 className="text-4xl text-center font-bold text-white pb-8 md:pb-8">
         Destaques

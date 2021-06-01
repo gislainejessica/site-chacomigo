@@ -17,19 +17,6 @@ export default function WordsRun() {
         </div>
       </div>
 
-
-      {/* <div id="ct">
-        <div className="corner " id="left_top"></div>
-        <div className="corner" id="left_bottom"></div>
-        <div className="corner" id="right_top"></div>
-        <div className="corner" id="right_bottom"></div>
-        <span>Winston Churchill</span>
-        <blockquote>
-          <p><i>&ldquo;Success consists of going from failure to failure without loss of enthusiasm.&rdquo; </i></p>
-        </blockquote>
-      </div> */}
-
-
     </div>
   )
 }

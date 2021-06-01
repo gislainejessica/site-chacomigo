@@ -2,7 +2,7 @@ import Image from 'next/image'
 
 export default function People() {
   return (
-    <div className=" flex flex-col justify-center items-center w-full bg-green-100 py-20 md:px-28 md:py-20 ">
+    <div id="people-content" className=" flex flex-col justify-center items-center w-full bg-green-100 py-20 md:px-28 md:py-20 ">
       <div className=" flex flex-row justify-around items-center w-full">
         <h1 className="text-4xl  font-bold text-gray-600 text-center pb-10 w-full">Nosso Time </h1>
       </div>
